@@ -8,6 +8,10 @@ namespace ConsoleApplication2
 {
     class Program
     {
+        delegate void _delegate(Mono.Cecil.TypeDefinition type,
+                                Mono.Cecil.AssemblyDefinition assembly,
+                                string prefix);
+
         static void Main(string[] args)
         {
             if (args.Length == 1)
@@ -35,7 +39,7 @@ namespace ConsoleApplication2
                                        Mono.Cecil.AssemblyDefinition assembly,
                                        string prefix = "")
         {
-            nestSearch(type, assembly, ref prefix);
+            nestSearch(type, assembly, ref prefix, showString);
 
             type.Methods.ToList().ForEach((method) =>
             {
@@ -67,7 +71,7 @@ namespace ConsoleApplication2
                                        Mono.Cecil.AssemblyDefinition assembly,
                                        string prefix = "")
         {
-            nestSearch(type, assembly, ref prefix);
+            nestSearch(type, assembly, ref prefix, debugMethod);
 
             type.Methods.ToList().ForEach((method) =>
             {
@@ -101,7 +105,8 @@ namespace ConsoleApplication2
 
         static private void nestSearch(Mono.Cecil.TypeDefinition type,
                                        Mono.Cecil.AssemblyDefinition assembly,
-                                       ref string prefix)
+                                       ref string prefix,
+                                       _delegate del)
         {
             if (prefix != "")
             {
@@ -116,7 +121,7 @@ namespace ConsoleApplication2
             var _prefix = prefix;
             type.NestedTypes.ToList().ForEach(x =>
             {
-                showString(x, assembly,  _prefix);
+                del(x, assembly, _prefix);
             });
         }
     }
