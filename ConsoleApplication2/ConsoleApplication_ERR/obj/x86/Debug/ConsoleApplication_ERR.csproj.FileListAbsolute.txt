@@ -6,4 +6,3 @@ C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\Conso
 C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication_ERR\bin\Debug\ConsoleApplication_ERR.pdb
 C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication_ERR\obj\x86\Debug\ConsoleApplication_ERR.exe
 C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication_ERR\obj\x86\Debug\ConsoleApplication_ERR.pdb
-C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication_ERR\obj\x86\Debug\ConsoleApplication_ERR.csprojResolveAssemblyReference.cache

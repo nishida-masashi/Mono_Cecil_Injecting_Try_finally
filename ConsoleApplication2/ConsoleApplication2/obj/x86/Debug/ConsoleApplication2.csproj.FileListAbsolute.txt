@@ -14,4 +14,3 @@ C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\Conso
 C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication2\bin\Debug\Mono.Cecil.Mdb.dll
 C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication2\bin\Debug\Mono.Cecil.Pdb.dll
 C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication2\bin\Debug\Mono.Cecil.Rocks.dll
-C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
