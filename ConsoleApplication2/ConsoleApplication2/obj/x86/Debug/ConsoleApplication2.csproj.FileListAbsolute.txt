@@ -1,0 +1,17 @@
+C:\Users\nishida.masashi\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\nishida.masashi\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\nishida.masashi\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\Mono.Cecil.dll
+C:\Users\nishida.masashi\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\nishida.masashi\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\nishida.masashi\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\nishida.masashi\Desktop\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\nishida.masashi\Desktop\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication2\bin\Debug\Mono.Cecil.dll
+C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication2\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication2\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication2\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\nishida.masashi\Documents\GitHub\Mono_Cecil_Injecting_Try_finally\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
