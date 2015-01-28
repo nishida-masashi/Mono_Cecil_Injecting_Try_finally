@@ -27,7 +27,18 @@ namespace ConsoleApplication2
                         debugMethod(type, assembly);
                     });
 
-                assembly.Write("change_" + args[0]);
+                var dirName = System.IO.Path.GetDirectoryName(args[0]);
+                var fileName = System.IO.Path.GetFileName(args[0]);
+
+                if (dirName == "")
+                {
+                    assembly.Write("change_" + args[0]);
+                }
+                else
+                {
+                    assembly.Write(dirName + "\\change_" + fileName);
+                }
+               
             }
             else
             {
